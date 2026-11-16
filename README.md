@@ -45,7 +45,6 @@ The site is built with a bespoke editorial aesthetic that combines brutalist pre
    - Magnetic cursor tracking on desktop where letters near the pointer lift and scale.
    - Animated typing line cycling through 5 role titles (*C# developer*, *.NET engineer*, *Angular builder*, *API designer*, *SQL Server specialist*).
    - Pulsing live availability indicator with quick contact action links.
-   - Portrait photo tilted at 3°, rounded corners, solid lime offset shadow, straightening smoothly on hover.
 3. **Skills Marquee Bands:**
    - Horizontal text strip linked to scroll speed via `requestAnimationFrame`.
    - Triple opposite-direction text tracks with alternating outlined and solid typography in the dedicated Skills section.
